@@ -1,11 +1,6 @@
 # Тестирование в продакшене
 
-[![hexlet-check](https://github.com/leyss19/qa-engineer-project-85/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/leyss19/qa-engineer-project-85/actions)
-
-Протестируйте проект, который уже работает в продакшене
-
-Учебный проект Хекслета: https://ru.hexlet.io/programs/qa-engineer
-Как это должно работать: https://codebattle.hexlet.io/
+[Codebattle](https://codebattle.hexlet.io/) — тестируемый проект
 
 ## Стек
 
